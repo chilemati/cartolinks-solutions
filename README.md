@@ -31,8 +31,8 @@ The project is built with **Next.js 15**, **React 19**, **TailwindCSS**, and **F
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/chilemati/cartolinks-solutions.git
+   cd cartolinks-solutions
    npm install
    npm run dev
 
@@ -45,6 +45,7 @@ This project was created as part of the Cartolinks Solutions Assessment.
 Focus was placed on responsiveness, professional UI/UX, dark mode support, and maintainable code.
 
 ## Live demo
+https://cartolinks-solutions-six.vercel.app/
 
 
 ## 👤 Author
