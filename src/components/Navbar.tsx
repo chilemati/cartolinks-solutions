@@ -150,11 +150,11 @@ export default function Navbar() {
           <div className="flex flex-nowrap flex-col gap-3">
             <div className="flex  items-center gap-2 bg-gray-100 dark:bg-gray-800 rounded-lg px-3 py-2 cursor-pointer">
               <LucidImage size={18} />
-              <span className="text-sm">Gallery</span>
+              <Link href="/gallery" className="text-sm">Gallery</Link>
             </div>
             <div className="flex items-center gap-2 bg-gray-100 dark:bg-gray-800 rounded-lg px-3 py-2 cursor-pointer">
               <Headset size={18} />
-              <span className="text-sm">Support</span>
+              <Link href='/support' className="text-sm">Support</Link>
             </div>
             <button className="p-2 w-fit bg-gray-100 dark:bg-gray-800 rounded-lg">
               <Bell size={18} />
